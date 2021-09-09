@@ -11,7 +11,7 @@ Experience: 5
 Attributes
 Physical      Social        Mental
 Str 4 (grip)  Cha 2         Per 5 (detail oriented)
-uex 1         Man 2         Int 3
+Dex 1         Man 2         Int 3
 Sta 3         App 2         Wit 2
 
 Abilities
@@ -36,7 +36,17 @@ System: Unless specified otherwise, thaumaturgic path powers all follow the same
 Backgrounds
 Generation 2 (10)
 Retainer 2
-Herd 3 (15 people)
+Herd 3 (12 people)
+  family 4
+    - Saul
+    - Shulie
+    - Peter
+    - Mary
+  family 3
+  couple
+  1 indos
+  clark?
+  1 Timothy
 
 Virtues
 Conscience 5
@@ -45,11 +55,11 @@ Courage 4
 
 Path of Christ 8/10 [120]
 
-Blood Pool 5/13
+Blood Pool 13/13
 
 Health
-Bruised         [*]
-Hurt            [x] -1
+Bruised         [*] BLOOD SPENT, NEED REST
+Hurt            [ ] -1
 Injured         [ ] -1
 Wounded         [ ] -2
 Mauled          [ ] -2
@@ -79,7 +89,7 @@ Flaws
 Dark Secret
 
 Bonded to:
-Yakov ••
+Yakov •••
 Prince Tristan ••
 The Killer •• [DEAD]
 The Lady Killer ••
